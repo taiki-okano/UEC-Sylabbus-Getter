@@ -58,7 +58,7 @@ if __name__ == "__main__":
         except Exception:
             print("Unable to access the page")
             print("Please check the internet connection")
-            # driver.quit()
+            driver.quit()
             quit()
 
         return element
