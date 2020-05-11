@@ -2,7 +2,7 @@
 
 # TL;DR
 電気通信大学の学務情報システムからシラバスを自動取得してくるものだーよ。
-Pythonで動いているよ。
+Pythonで動いているよ。バグったらtaiki.okano@uec.ac.jpに教えてね。
 Google Chromeと[Webdriver](https://chromedriver.chromium.org/downloads)が必要だーよ。
 
 # Usage
