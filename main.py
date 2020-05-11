@@ -160,3 +160,5 @@ if __name__ == "__main__":
 
     for classcode in classcodes:
         GetSylabbusPDF(classcode)
+
+    driver.quit()
