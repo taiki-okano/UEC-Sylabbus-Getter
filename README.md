@@ -1,9 +1,9 @@
 # UEC-Sylabbus-Getter
 
 # TL;DR
-電気通信大学の学務情報システムからシラバスを自動取得してくるものだーよ。
-Pythonで動いているよ。バグったらtaiki.okano@uec.ac.jpに教えてね。
-Google Chromeと[Webdriver](https://chromedriver.chromium.org/downloads)が必要だーよ。
+電気通信大学の学務情報システムからシラバスを自動取得してくるものだーよ。<br>
+Pythonで動いているよ。バグったらtaiki.okano@uec.ac.jpに教えてね。<br>
+Google Chromeと[Webdriver](https://chromedriver.chromium.org/downloads)が必要だーよ。<br>
 ちなみに、情報理工学域以外のものには対応してないぞい？（Pull request求む)
 
 # Usage
