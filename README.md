@@ -1,10 +1,10 @@
 # UEC-Sylabbus-Getter
 
 # TL;DR
-電気通信大学の学務情報システムからシラバスを自動取得してくるものだーよ。<br>
+電気通信大学の学務情報システムからシラバスを自動取得してくるものだよ。<br>
 Pythonで動いているよ。バグったらtaiki.okano@uec.ac.jpに教えてね。<br>
-Google Chromeと[Webdriver](https://chromedriver.chromium.org/downloads)が必要だーよ。<br>
-ちなみに、情報理工学域以外のものには対応してないぞい？
+Google Chromeと[Webdriver](https://chromedriver.chromium.org/downloads)が必要だよ。<br>
+ちなみに、情報理工学域以外のものには対応してないよ？
 # Usage
 1. まず始める前に、classcodes.txtに自分が取りたいクラスの時間割コードを改行で区切って入力してね。
 2. main.pyを起動してね。
